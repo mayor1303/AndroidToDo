@@ -9,7 +9,7 @@
         android:title="Delete all Tasks"
         app:showAsAction="never"/>
     <item android:id="@+id/supportUS"
-        android:title="Support us!"
+        android:title="Explore more on github"
         app:showAsAction="never"/>
 
 </menu>
